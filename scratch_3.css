@@ -1,0 +1,72 @@
+.size_navbar{
+    height: 45px;
+}
+.alignment_navbar_mobile{
+    margin-bottom: 10px;
+}
+.alignment_navbar_item1{
+    margin-bottom: 20px;
+    margin-left: 3px;
+}
+.alignment_navbar_item2{
+    margin-bottom: 20px;
+    margin-left: 3px;
+    margin-right: 8em;
+}
+.size_navbar_submit{
+    width: 4em;
+    height: 30px;
+}
+.size_navbar_input{
+    width:10em;
+    height: 100px;
+}
+#navbar_text-mobile{
+    color: white;
+    opacity: 0.6;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#navbar_text{
+    align-content: center ;
+    color: white;
+    opacity: 0.6;
+    margin-left: 15em;
+}
+#navbar_text_item{
+    font-size: 12px;
+}
+.text-size{
+    font-size: 10px;
+}
+h1{
+    font-family: "A Arghavan";
+}
+.topnav {
+    overflow: hidden;
+    background-color: #343a40;
+    position: relative;
+}
+
+.topnav #input {
+    display: none;
+}
+.topnav a {
+    color: white;
+    padding: 11px 11px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
+.topnav a.icon {
+    background: #343a40;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
